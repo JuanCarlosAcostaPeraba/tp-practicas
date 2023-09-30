@@ -4,6 +4,8 @@ Prácticas de la asignatura de Tecnologías de Programación, enfocadas en el de
 
 **Desarrollado en Java**
 
+[Explicación concurrencia en JAVA ☕](https://jcap-dev.notion.site/Concurrencia-JAVA-e073454a6b694ca885697419613e7e8c?pvs=4)
+
 ## Prácticas
 
 1. [Polinomios](./Polinomios/)
